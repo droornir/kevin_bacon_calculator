@@ -1,0 +1,9 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/node": "^14.0.20",
+    "types": "^0.1.1"
+  }
+}
